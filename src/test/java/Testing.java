@@ -23,12 +23,13 @@ public static WebDriver driver;
 		
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.manage().window().fullscreen();
+		
 	}
 	
 	@Test
 	public void Test1() {
 		driver.navigate().to("https://www.google.com/");
-		System.out.println("Test 1 title is "+driver.getTitle());
+		System.out.println("Test 1 title is: "+driver.getTitle());
 	}
 	
 	@Test
