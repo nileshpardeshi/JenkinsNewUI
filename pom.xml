@@ -36,10 +36,10 @@
 	</dependencies>
 
 	<properties>
-		<sonar.projectKey>nileshpardeshi_JenkinsUITest</sonar.projectKey>
+		<sonar.projectKey>nileshpardeshi_JenkinsNewUI</sonar.projectKey>
 		<sonar.organization>nileshpardeshi</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.login>83493857b9a03b5f8d268677c2054a4b07d89ac6</sonar.login>
+		<sonar.login>9dd4aa6569d95239d9846cb81dff4dfa0e23f046</sonar.login>
 	</properties>
 
 	<build>
